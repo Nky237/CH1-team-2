@@ -55,12 +55,11 @@ const proudOfThisFunc = () => {
 
 Contributors
 <h3> Team members: </h3>
-
-Github - Nky237
-Github - TechSis01
-Github - Odili1
-Github - thetobiaadegoke
-Github - Anugo1
+<li>Github - Nky237</li>
+<li>Github - TechSis01</li>
+<li>Github - Odili1</li>
+<li>Github - thetobiaadegoke</li>
+<li>Github - Anugo1</li>
 
 <h2> Acknowledgments </h2>
 <p> I appreciate our mentors for their time </p>
