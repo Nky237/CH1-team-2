@@ -1,52 +1,66 @@
 <h1>CH1-team-2 </h1>
 <p>We built and deployed a website that shortens links </p>
 
-Thanks for checking out our Project.
+<p>Thanks for checking out our Project.</p>
 
-Table of contents
-Overview
-The challenge
-Screenshot
-Links
-Built with
-What I learned
-Author
-Acknowledgments
-Overview
-General overview/description of project
-
-The challenge
-No challenge was encountered
+<h2>Table of contents</h2>
+<li ><a href="">Overview</a></li>
+<li ><a href="">The challenge</a></li>
+<li ><a href="">Screenshot</a></li>
+<li ><a href="">Links</a></li>
+<li ><a href="">Built with</a></li>
+<li ><a href="">What I learned</a></li>
+<li ><a href="">Author</a></li>
+<li ><a href="">Acknowledgments</a></li>
+<li ><a href="">Overview</a></li>
+<li ><a href="">General overview/description of project</a></li>
 
 
 
 
-Links
+<h2> The challenge </h2>
+<p> No challenge was encountered </p>
+
+
+
+
+<h2> Links </h2>
 Live Site URL: Add live site URL here
-Built with
-HTML
-CSS
-JavaScript
-API
-What I learned
-We learnt how to utilize proficiently HTML, CSS, JS  and consume API
 
-To see how you can add code snippets, see below:
+<h3> Built with </h3>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>API</p>
+
+
+<h3>What I learned</h3>
+
+ <p> We learnt how to utilize proficiently HTML, CSS, JS  and consume API </p>
+
 
 <h1>Some HTML code I'm proud of</h1>
+<style>
 .proud-of-this-css {
 	color: style;
 }
+
+</style>
+<script>
 const proudOfThisFunc = () => {
 	console.log("🎉");
-};
+}
+</script>
+
+
 Contributors
-Team members:
+<h3> Team members: </h3>
 
 Github - Nky237
 Github - TechSis01
 Github - Odili1
 Github - thetobiaadegoke
 Github - Anugo1
-Acknowledgments
-I appreciate our mentors for their time
+
+<h2> Acknowledgments </h2>
+<p> I appreciate our mentors for their time </p>
